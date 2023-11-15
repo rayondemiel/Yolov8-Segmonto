@@ -1,0 +1,6 @@
+.env/
+*.pt
+data/
+img/
+models/
+runs/
